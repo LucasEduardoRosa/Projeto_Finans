@@ -1,0 +1,13 @@
+h1{
+  color: white;
+}
+p{
+  color: white;
+}
+.text{
+  color: rgb(148, 148, 148);
+}
+.caixa{
+  margin: 100px;
+  border-bottom: 2px solid rgb(230, 230, 230);
+}
